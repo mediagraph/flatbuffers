@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='flatbuffers',
-    version='2015.05.14.0',
+    version='2016.3.10',
     license='Apache 2.0',
     author='FlatBuffers Contributors',
     author_email='me@rwinslow.com',
